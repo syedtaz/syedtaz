@@ -1,4 +1,4 @@
-### Hi there 👋
+My name is Tazmilur Saad -- most people call me Taz. I am currently a CS and Applied Mathematics double major at Colgate University in upstate NY.
 
 <!--
 **syedtaz/syedtaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
