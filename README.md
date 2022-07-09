@@ -12,10 +12,10 @@ SYEDTAZ(1)                              Github User Profile                     
                                                           ▀                      ███    ███ 
 
 NAME
-    TAZ - is what most people call me.
+    TAZ is what most people call me. (he/him)
     
 DESCRIPTION
-    Incoming software engineer at Barclays. Colgate University '22.
+    Incoming software engineer at BARCLAYS. Colgate University '22.
 
 CONTACT
     ssaad [at] colgate [dot] edu
