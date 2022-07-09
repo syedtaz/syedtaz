@@ -15,7 +15,7 @@ NAME
     TAZ - is what most people call me.
     
 DESCRIPTION
-    Incoming software engineer at Barclays. Colgate University Class of 2022.
+    Incoming software engineer at Barclays. Colgate University '22.
 
 CONTACT
     ssaad [at] colgate [dot] edu
