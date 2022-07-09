@@ -1,5 +1,5 @@
 ```
-SYEDTAZ(1)                              Github User Profile                      SYEDTAZ(1)
+SYEDTAZ(1)                              GitHub User Profile                      SYEDTAZ(1)
 
     ███        ▄████████  ▄███████▄    ▄▄▄▄███▄▄▄▄    ▄█   ▄█       ███    █▄     ▄████████ 
 ▀█████████▄   ███    ███ ██▀     ▄██ ▄██▀▀▀███▀▀▀██▄ ███  ███       ███    ███   ███    ███ 
