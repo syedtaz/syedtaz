@@ -1,4 +1,6 @@
 ```
+SYEDTAZ(1)                              Github User Profile                      SYEDTAZ(1)
+
     ███        ▄████████  ▄███████▄    ▄▄▄▄███▄▄▄▄    ▄█   ▄█       ███    █▄     ▄████████ 
 ▀█████████▄   ███    ███ ██▀     ▄██ ▄██▀▀▀███▀▀▀██▄ ███  ███       ███    ███   ███    ███ 
    ▀███▀▀██   ███    ███       ▄███▀ ███   ███   ███ ███▌ ███       ███    ███   ███    ███ 
@@ -9,6 +11,15 @@
    ▄████▀     ███    █▀   ▀████████▀  ▀█   ███   █▀  █▀   █████▄▄██ ████████▀    ███    ███ 
                                                           ▀                      ███    ███ 
 
-Most people call me Taz. 
+NAME
+    TAZ - is what most people call me.
+    
+DESCRIPTION
+    Incoming software engineer at Barclays. Colgate University Class of 2022.
 
+CONTACT
+    ssaad [at] colgate [dot] edu
+    
+macOS 12.4                              July 8, 2022                             macOS 12.4
+(END)
 ```
