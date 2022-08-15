@@ -15,7 +15,7 @@ NAME
     TAZ is what most people call me. (he/him)
     
 DESCRIPTION
-    Incoming software engineer at BARCLAYS. Colgate University '22.
+    Software engineer at BARCLAYS. Colgate University '22.
 
 CONTACT
     ssaad [at] colgate [dot] edu
