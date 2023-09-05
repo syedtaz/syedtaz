@@ -14,6 +14,6 @@ DESCRIPTION
 CONTACT
     ssaad [at] colgate [dot] edu
     
-macOS 12.4                              July 8, 2022                             macOS 12.4
+macOS 12.4                              Sep 4, 2022                             macOS 12.4
 (END)
 ```
