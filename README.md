@@ -1,1 +1,1 @@
-fix f = f (fix f)
+Fast, formal and functional is the way :)
